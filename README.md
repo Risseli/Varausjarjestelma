@@ -1,2 +1,2 @@
-# Varausjarjestelma
-Oppilastyo, hotellin varausjarjestelma. C#, paikallinen tietokanta
+# booking system
+School project #local database C#
